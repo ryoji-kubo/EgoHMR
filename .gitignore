@@ -4,3 +4,6 @@
 __pycache__
 .DS_Store
 .idea
+EgoBody/
+body_models/
+__MACOSX/
